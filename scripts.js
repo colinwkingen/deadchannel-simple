@@ -21,7 +21,7 @@ $(document).ready(function() {
 	}
 	
 	function randomTimer() {
-		return Math.floor(Math.random()*12000);
+		return Math.floor(Math.random()*16000);
 	}
 	
 	
